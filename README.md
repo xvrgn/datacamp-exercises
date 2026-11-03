@@ -20,17 +20,17 @@ This repo is still in progress and will be updated regularly. Feel free to explo
 ### Associate Data Analyst in SQL
 | Index   | Courses/Project                               | Task    |
 |:-------:|-----------------------------------------------|:-------:|
-| 1       | Introduction to SQL                           | &#9744; |
-| 2       | Intermediate SQL                              | &#9744; |
-| 3       | Analyzing Students' Mental Health (Project)   | &#9744; |
-| 4       | Joining Data in SQL                           | &#9744; |
-| 5       | Data Manipulation in SQL                      | &#9744; |
-| 6       | PostgreSQL Summary Stats and Window Functions | &#9744; |
-| 7       | Functions for Manipulating Data in PostgreSQL | &#9744; |
-| 8       | Introduction to Statistics                    | &#9744; |
-| 9       | Exploratory Data Analysis in SQL              | &#9744; |
-| 10      | Data-Driven Decision Making in SQL            | &#9744; |
-| 11      | Understanding Data Visualization              | &#9744; |
-| 12      | Data Communication Concepts                   | &#9744; |
-| 13      | Analyzing Motorcycle Part Sales (Project)     | &#9744; |
+| 1       | Introduction to SQL                           |   ☑    |
+| 2       | Intermediate SQL                              |   ☐    |
+| 3       | Analyzing Students' Mental Health (Project)   |   ☐    |
+| 4       | Joining Data in SQL                           |   ☐    |
+| 5       | Data Manipulation in SQL                      |   ☐    |
+| 6       | PostgreSQL Summary Stats and Window Functions |   ☐    |
+| 7       | Functions for Manipulating Data in PostgreSQL |   ☐    |
+| 8       | Introduction to Statistics                    |   ☐    |
+| 9       | Exploratory Data Analysis in SQL              |   ☐    | 
+| 10      | Data-Driven Decision Making in SQL            |   ☐    |
+| 11      | Understanding Data Visualization              |   ☐    |
+| 12      | Data Communication Concepts                   |   ☐    |
+| 13      | Analyzing Motorcycle Part Sales (Project)     |   ☐    |
 
