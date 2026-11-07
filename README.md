@@ -22,8 +22,8 @@ This repo is still in progress and will be updated regularly. Feel free to explo
 |:-------:|-----------------------------------------------|:-------:|
 | 1       | Introduction to SQL                           |   ☑    |
 | 2       | Intermediate SQL                              |   ☑    |
-| 3       | [Analyzing Students' Mental Health (Project)](https://github.com/xvrgn/analyzing-students-mental-health-project-in-postgresql)   |   ☑    |
-| 4       | Joining Data in SQL                           |   ☐    |
+| 3       | Analyzing Students' Mental Health (Project)   |   ☑    |
+| 4       | Joining Data in SQL                           |   ☑    |
 | 5       | Data Manipulation in SQL                      |   ☐    |
 | 6       | PostgreSQL Summary Stats and Window Functions |   ☐    |
 | 7       | Functions for Manipulating Data in PostgreSQL |   ☐    |
