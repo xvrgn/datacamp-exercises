@@ -24,7 +24,7 @@ This repo is still in progress and will be updated regularly. Feel free to explo
 | 2       | Intermediate SQL                              |   ☑    |
 | 3       | Analyzing Students' Mental Health (Project)   |   ☑    |
 | 4       | Joining Data in SQL                           |   ☑    |
-| 5       | Data Manipulation in SQL                      |   ☐    |
+| 5       | Data Manipulation in SQL                      |   ☑    |
 | 6       | PostgreSQL Summary Stats and Window Functions |   ☐    |
 | 7       | Functions for Manipulating Data in PostgreSQL |   ☐    |
 | 8       | Introduction to Statistics                    |   ☐    |
